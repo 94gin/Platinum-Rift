@@ -7,7 +7,12 @@ Tugas PR Day 3 Cakru 11 URO ITB
 - 16018109 Wafiq Azizah N      
 
 ## Strategi
-- Sementara melakukan gerakan berulang
+- Menerima seluruh informasi yang ada.
+- Melakukan cek zone disekitar pod.
+- Mengisi zona tersebut jika kosong.
+- Melakukan cek jika semua zona telah terakusisi.
+- Melakukan akusisi terhadap zona musuh atau melakukan gerakan random terhadap zona milik sendiri.
+- Melakukan pengulangan algoritma sampai mengakusisi zona musuh.
 
 ## Algoritma
 ```
